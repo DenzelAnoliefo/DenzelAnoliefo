@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Denzel Anoliefo</h1>
-<h3 align="center">A passionate and aspiring Quantitative Developer</h3>
+<h2 align="left">💫 About me:</h2>
+
+###
+
+<p align="left">My name is Denzel Anoliefo, and I'm a second-year Computer Science student at Western University. I'm passionate about quantitative development, algorithmic trading, working with data, and mathematics.</p>
+
+###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denzelanoliefo&label=Profile%20views&color=0e75b6&style=flat" alt="denzelanoliefo" /> </p>
 
