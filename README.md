@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denzelanoliefo&label=Profile%20views&color=0e75b6&style=flat" alt="denzelanoliefo" /> </p>
 
-- 🔭 I’m currently working on [a Black Scholes options pricer](https://github.com/DenzelAnoliefo/Black-Scholes-Merton-Options-Pricer)
+- 🔭 I’m currently working on [a 2D game called Cascade](https://github.com/DenzelAnoliefo/Cascade)
 
 - 🌱 I’m currently learning **Operating Systems and Networking**
 
