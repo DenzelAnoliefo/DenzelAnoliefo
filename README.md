@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **danoliefo@gmail.com**
 
-- ⚡ Fun fact **I lost the city basketball championship in my senior year of high school.**
+- ⚡ Fun fact **I lost the city basketball championship final in my senior year of high school.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
