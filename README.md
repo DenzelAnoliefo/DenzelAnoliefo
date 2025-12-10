@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Denzel Anoliefo, and I'm a second-year Computer Science student at Western University. I'm passionate about quantitative development, algorithmic trading, working with data, and mathematics.</p>
+<p align="left">My name is Denzel Anoliefo, and I'm a second-year Computer Science student at Western University. I'm passionate about software engineering, quantitative development, working with data, and mathematics.</p>
 
 ###
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Operating Systems and Networking**
 
-- 👯 I’m looking to collaborate on **Quant projects**
+- 👯 I’m looking to collaborate on **fun projects**
 
 - 🤝 I’m looking for help with **C++**
 
