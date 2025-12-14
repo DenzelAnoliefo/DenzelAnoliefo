@@ -9,19 +9,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denzelanoliefo&label=Profile%20views&color=0e75b6&style=flat" alt="denzelanoliefo" /> </p>
 
-- 🔭 I’m currently working on [a limit order book](https://github.com/DenzelAnoliefo/Order-Book)
+- I’m currently working on [a high concurrency event ticketing app](https://github.com/DenzelAnoliefo/queue-up)
 
-- 🌱 I’m currently learning **Operating Systems and Networking**
+- I’m currently learning **Operating Systems and Networking**
 
-- 👯 I’m looking to collaborate on **fun projects**
+- I’m looking to collaborate on **fun projects**
 
-- 🤝 I’m looking for help with **C++**
+- I’m looking for help with **C++**
 
-- 💬 Ask me about **Mathematics**
+- Ask me about **System Design**
 
-- 📫 How to reach me **danoliefo@gmail.com**
+- How to reach me **danoliefo@gmail.com**
 
-- ⚡ Fun fact **I lost the city basketball championship final in my senior year of high school.**
+- Fun fact **I lost the city basketball championship final in my senior year of high school.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
