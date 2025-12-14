@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Denzel Anoliefo</h1>
-<h2 align="left">💫 About me:</h2>
+<h1 align="center">Hi, I'm Denzel Anoliefo</h1>
+<h2 align="left">About me:</h2>
 
 ###
 
