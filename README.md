@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denzelanoliefo&label=Profile%20views&color=0e75b6&style=flat" alt="denzelanoliefo" /> </p>
+// <p align="left"> <img src="https://komarev.com/ghpvc/?username=denzelanoliefo&label=Profile%20views&color=0e75b6&style=flat" alt="denzelanoliefo" /> </p>
 
 - I’m currently working on [a high concurrency event ticketing app](https://github.com/DenzelAnoliefo/queue-up)
 
