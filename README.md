@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Denzel Anoliefo, and I'm a second-year Computer Science student at Western University. I'm passionate about software engineering, full stack development, and learning</p>
+<p align="left">My name is Denzel Anoliefo, and I'm a second-year Computer Science student at Western University. I'm passionate about building cool things, full stack development, and learning</p>
 
 ###
 
@@ -11,9 +11,9 @@
 
 - I’m currently working on [a high concurrency event ticketing app](https://github.com/DenzelAnoliefo/queue-up)
 
-- I’m currently learning **Web Development**
+- I’m currently learning Web Development
 
-- Ask me about **System Design**
+- My goal is to become a Software Engineer
 
 - Fun fact **I'm prestige master in Black Ops 3**
 
