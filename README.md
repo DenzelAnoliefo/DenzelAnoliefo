@@ -11,17 +11,13 @@
 
 - I’m currently working on [a high concurrency event ticketing app](https://github.com/DenzelAnoliefo/queue-up)
 
-- I’m currently learning **Operating Systems and Networking**
-
-- I’m looking to collaborate on **fun projects**
-
-- I’m looking for help with **C++**
+- I’m currently learning **Web Development**
 
 - Ask me about **System Design**
 
-- How to reach me **danoliefo@gmail.com**
+- Fun fact **I'm prestige master in Black Ops 3**
 
-- Fun fact **I lost the city basketball championship final in my senior year of high school.**
+- You can reach me on LinkedIn!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
