@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Denzel Anoliefo, and I'm a second-year Computer Science student at Western University. I'm passionate about building cool things, full stack development, and learning.</p>
+<p align="left">My name is Denzel Anoliefo, and I'm a second-year Computer Science student at Western University. I'm passionate about building cool things and always learning.</p>
 
 ###
 
