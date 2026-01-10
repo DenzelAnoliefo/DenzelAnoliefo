@@ -9,7 +9,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=denzelanoliefo&label=Profile%20views&color=0e75b6&style=flat" alt="denzelanoliefo" /> </p> -->
 
-- I’m building a [a high concurrency event ticketing app](https://github.com/DenzelAnoliefo/queue-up)
+- I’m building a [high concurrency event ticketing app](https://github.com/DenzelAnoliefo/queue-up)
 
 - Learning automata theory and formal verification to be able to mathematically guarantee algorithm correctness in AI systems
   
