@@ -3,21 +3,19 @@
 
 ###
 
-<p align="left">My name is Denzel Anoliefo, and I'm a second-year Computer Science student at Western University. I'm passionate about building cool things, full stack development, and learning</p>
+<p align="left">My name is Denzel Anoliefo, and I'm a second-year Computer Science student at Western University. I'm passionate about building cool things, full stack development, and learning.</p>
 
 ###
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=denzelanoliefo&label=Profile%20views&color=0e75b6&style=flat" alt="denzelanoliefo" /> </p> -->
 
-- I’m currently working on [a high concurrency event ticketing app](https://github.com/DenzelAnoliefo/queue-up)
+- i’m building a [a high concurrency event ticketing app](https://github.com/DenzelAnoliefo/queue-up)
 
-- I’m currently learning Web Development
+- trying to see if i can keep ai algorithms in check using math by learning automata theory and formal verification
 
-- My goal is to become a Software Engineer
+- working my way through The Odin Project
 
-- Fun fact **I'm prestige master in Black Ops 3**
-
-- You can reach me on LinkedIn!
+- you can reach me on LinkedIn!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
