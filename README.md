@@ -11,8 +11,8 @@
 
 - I’m building a [a high concurrency event ticketing app](https://github.com/DenzelAnoliefo/queue-up)
 
-- Trying to see if i can keep ai algorithms in check using math by learning automata theory and formal verification
-
+- Learning automata theory and formal verification to be able to mathematically guarantee algorithm correctness in AI systems
+  
 - Working my way through The Odin Project
 
 - You can reach me on LinkedIn!
