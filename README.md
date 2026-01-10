@@ -9,13 +9,13 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=denzelanoliefo&label=Profile%20views&color=0e75b6&style=flat" alt="denzelanoliefo" /> </p> -->
 
-- i’m building a [a high concurrency event ticketing app](https://github.com/DenzelAnoliefo/queue-up)
+- I’m building a [a high concurrency event ticketing app](https://github.com/DenzelAnoliefo/queue-up)
 
-- trying to see if i can keep ai algorithms in check using math by learning automata theory and formal verification
+- Trying to see if i can keep ai algorithms in check using math by learning automata theory and formal verification
 
-- working my way through The Odin Project
+- Working my way through The Odin Project
 
-- you can reach me on LinkedIn!
+- You can reach me on LinkedIn!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
