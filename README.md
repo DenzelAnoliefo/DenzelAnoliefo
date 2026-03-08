@@ -11,7 +11,7 @@
 
 - I’m building a [centralized exam repository](https://westernexams.com)
 
-- Currently doing research in automata theory and formal verification to be able to mathematically guarantee algorithm correctness in AI systems
+- Currently doing research in formal verification to be able to mathematically guarantee algorithm correctness in haptic systems
   
 - Working my way through The Odin Project
 
