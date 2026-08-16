@@ -11,9 +11,9 @@
 
 - I’m building a [centralized exam repository](https://westernexams.com)
 
-- Currently doing research in formal verification to be able to mathematically guarantee algorithm correctness in haptic systems
+- Currently a backend engineer at WSIB working on the core insurance platforms
   
-- Working my way through The Odin Project
+- Working my way through CS undergrad at Western University
 
 - You can reach me on LinkedIn!
 
